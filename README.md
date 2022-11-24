@@ -8,7 +8,7 @@ Projeto destinado a documentar todos os meus desenvolvimentos ao longo da minha 
 | :label: Tecnologias | javascript, html, css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](#vitrinedev)
 
 ## Detalhes do projeto
 
