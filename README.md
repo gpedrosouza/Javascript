@@ -12,4 +12,4 @@ Projeto destinado a documentar todos os meus desenvolvimentos ao longo da minha 
 
 ## Detalhes do projeto
 
-Drante o meu desenvolvimento em Javascript, tenho feito vários projetos para aplicar o conhecimento adquirido. Portanto, esse repositório servirá como forma de documentá-los.
+Durante o meu desenvolvimento em Javascript, tenho feito vários projetos para aplicar o conhecimento adquirido. Portanto, esse repositório servirá como forma de documentá-los.
