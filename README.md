@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Projetos em Javascript
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto destinado a documentar todos os meus desenvolvimentos ao longo da minha trilha de aprendizado em Javascript.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
